@@ -103,7 +103,7 @@ Required package:
 
 Optional but strongly recommended:
 
-- `cloudscraper` (used as fallback when the MIMU GeoNode endpoint is behind anti-bot protection)
+- `cloudscraper` (used as fallback when the endpoint is behind anti-bot protection)
 
 Install packages:
 
@@ -182,7 +182,7 @@ Recommended citations:
 
 ### 403 when downloading town points
 
-The MIMU endpoint may be protected by anti-bot checks.
+The endpoint may be protected by anti-bot checks.
 
 What to do:
 
